@@ -1,0 +1,62 @@
+[
+  {
+    "id": "35cdcb9d-5396-499e-a8b2-c24e7c463b03",
+    "title": "Build Task Management Backend",
+    "description": "Complete the Node.js API assessment",
+    "priority": "High",
+    "status": "InProgress",
+    "dueDate": "2026-09-20T12:00:00.000Z",
+    "createdAt": "2026-09-11T12:45:08.851Z",
+    "updatedAt": "2026-09-11T12:45:08.851Z"
+  },
+  {
+    "id": "bc407356-9a11-4db9-81af-f97c79905443",
+    "title": "Build Task Management Backend",
+    "description": "Complete the Node.js API assessment",
+    "priority": "High",
+    "status": "InProgress",
+    "dueDate": "2026-09-20T12:00:00.000Z",
+    "createdAt": "2026-09-11T12:45:13.971Z",
+    "updatedAt": "2026-09-11T12:45:13.971Z"
+  },
+  {
+    "id": "36979258-f609-4d19-9df6-db1437815f8f",
+    "title": "Build Task Management Backend",
+    "description": "Complete the Node.js API assessment",
+    "priority": "High",
+    "status": "InProgress",
+    "dueDate": "2026-09-20T12:00:00.000Z",
+    "createdAt": "2026-09-11T12:45:18.131Z",
+    "updatedAt": "2026-09-11T12:45:18.131Z"
+  },
+  {
+    "id": "6daf4f60-353a-4126-907a-4124ef451b28",
+    "title": "My First Task",
+    "description": "Testing API using Postman",
+    "priority": "High",
+    "status": "Pending",
+    "dueDate": "2026-09-20T12:00:00.000Z",
+    "createdAt": "2026-09-14T10:28:31.008Z",
+    "updatedAt": "2026-09-14T10:28:31.008Z"
+  },
+  {
+    "id": "8e71f891-51c1-4bf5-9d15-735da358539e",
+    "title": "My First Task",
+    "description": "Testing API using Postman",
+    "priority": "High",
+    "status": "Pending",
+    "dueDate": "2026-09-20T12:00:00.000Z",
+    "createdAt": "2026-09-14T10:28:45.631Z",
+    "updatedAt": "2026-09-14T10:28:45.631Z"
+  },
+  {
+    "id": "03632231-290b-47d5-b6e8-7c457ceef5af",
+    "title": "My First Task",
+    "description": "Testing API using Postman",
+    "priority": "High",
+    "status": "Pending",
+    "dueDate": "2026-09-20T12:00:00.000Z",
+    "createdAt": "2026-09-14T10:32:57.668Z",
+    "updatedAt": "2026-09-14T10:32:57.668Z"
+  }
+]
